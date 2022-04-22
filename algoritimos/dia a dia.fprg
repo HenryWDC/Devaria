@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="henry"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-22 05:54:51 "/>
+        <attribute name="created" value="aGVucnk7TEFQVE9QLVFUUkhSNlFNOzIwMjItMDQtMjI7IjA1OjQ1OjA3ICI7Mjg2Mg=="/>
+        <attribute name="edited" value="aGVucnk7TEFQVE9QLVFUUkhSNlFNOzIwMjItMDQtMjI7IjA1OjU0OjUxICI7MTsyOTY5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;acordar&quot;" newline="True"/>
+            <output expression="&quot;beber agua&quot;" newline="True"/>
+            <output expression="&quot;escovar dentes&quot;" newline="True"/>
+            <output expression="&quot;tomar dejejum&quot;" newline="True"/>
+            <output expression="&quot;escovar dentes&quot;" newline="True"/>
+            <output expression="&quot;fazer exercicio&quot;" newline="True"/>
+            <output expression="&quot;tomar banho&quot;" newline="True"/>
+            <output expression="&quot;trabalhar em meu portifolio&quot;" newline="True"/>
+            <output expression="&quot;almo&#231;ar&quot;" newline="True"/>
+            <output expression="&quot;assistir um episodio de serie&quot;" newline="True"/>
+            <output expression="&quot;continuar a cuidar do portifolio&quot;" newline="True"/>
+            <output expression="&quot;comer algo e beber agua&quot;" newline="True"/>
+            <output expression="&quot;ir correr&quot;" newline="True"/>
+            <output expression="&quot;tomar banho&quot;" newline="True"/>
+            <output expression="&quot;continuar a trabalhar&quot;" newline="True"/>
+            <output expression="&quot;jantar&quot;" newline="True"/>
+            <output expression="&quot;ler quadrinhos&quot;" newline="True"/>
+            <output expression="&quot;ir dormir&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
